@@ -1,0 +1,12 @@
+Run these steps in a terminal from the final_project directory (IBM Skills Network lab recommended):
+
+python3
+>>> from emotion_detection import emotion_detector
+>>> emotion_detector("I am so happy I am doing this.")
+
+Expected output format (scores will vary slightly):
+{'anger': 0.0..., 'disgust': 0.0..., 'fear': 0.0..., 'joy': 0.9..., 'sadness': 0.0..., 'dominant_emotion': 'joy'}
+
+Verify that 'dominant_emotion' is 'joy'.
+
+Paste the actual terminal output from your session below this line after you run the commands above.

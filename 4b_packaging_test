@@ -1,0 +1,10 @@
+Run these steps in a terminal from the final_project directory (IBM Skills Network lab recommended):
+
+python3
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> emotion_detector("I hate working long hours.")
+
+Expected output format (scores will vary):
+{'anger': ..., 'disgust': ..., 'fear': ..., 'joy': ..., 'sadness': ..., 'dominant_emotion': 'anger'}
+
+Paste the actual terminal output from your session below this line after you run the commands above.

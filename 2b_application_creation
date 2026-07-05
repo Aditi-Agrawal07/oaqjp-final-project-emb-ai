@@ -1,0 +1,7 @@
+Run these steps in a terminal from the final_project directory (IBM Skills Network lab recommended):
+
+python3
+>>> from emotion_detection import emotion_detector
+>>> emotion_detector("I love this new technology.")
+
+Paste the actual terminal output from your session below this line after you run the commands above.

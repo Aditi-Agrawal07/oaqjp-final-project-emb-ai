@@ -1,0 +1,10 @@
+Package name: EmotionDetection
+
+Folder structure:
+final_project/
+    EmotionDetection/
+        __init__.py
+        emotion_detection.py
+
+Contents of __init__.py:
+(empty file)
