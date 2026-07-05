@@ -1,0 +1,13 @@
+Run from the final_project directory (IBM Skills Network lab recommended):
+
+python3 test_emotion_detection.py
+
+Expected output when all tests pass:
+
+.
+----------------------------------------------------------------------
+Ran 1 test in X.XXXs
+
+OK
+
+Paste the actual terminal output from your session below this line after you run the command above.

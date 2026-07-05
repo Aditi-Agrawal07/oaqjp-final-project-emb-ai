@@ -1,0 +1,8 @@
+Run from the final_project directory:
+
+python3 -m pylint server.py
+
+Output:
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.50/10, +1.50)
